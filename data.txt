@@ -1,0 +1,567 @@
+
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Wikipedia:Contents/Health and fitness - Wikipedia</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"Xq@FlQpAMM8AAIcNUKcAAACL","wgCSPNonce":!1,"wgCanonicalNamespace":"Project","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":4,"wgPageName":"Wikipedia:Contents/Health_and_fitness","wgTitle":"Contents/Health and fitness","wgCurRevisionId":943665717,"wgRevisionId":943665717,"wgArticleId":14541211,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Wikipedia semi-protected project pages","Project pages with short description","Wikipedia contents"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Wikipedia:Contents/Health_and_fitness","wgRelevantArticleId":14541211,
+"wgIsProbablyEditable":!1,"wgRelevantPageIsProbablyEditable":!1,"wgRestrictionEdit":["autoconfirmed"],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q19904521","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","skins.vector.styles.legacy":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready",
+"ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready"};RLPAGEMODULES=["site","mediawiki.page.startup","skins.vector.js","mediawiki.page.ready","ext.gadget.ReferenceTooltips","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.centralNotice.geoIP","ext.centralNotice.startUp"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1hzgi",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cskins.vector.styles.legacy%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.35.0-wmf.28"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Wikipedia:Contents/Health_and_fitness"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-4 ns-subject page-Wikipedia_Contents_Health_and_fitness rootpage-Wikipedia_Contents skin-vector action-view">
+<div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+		<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+	<div class="mw-indicators mw-body-content">
+<div id="mw-indicator-pp-default" class="mw-indicator"><a href="/wiki/Wikipedia:Protection_policy#semi" title="This page is semi-protected."><img alt="Page semi-protected" src="//upload.wikimedia.org/wikipedia/en/thumb/1/1b/Semi-protection-shackle.svg/20px-Semi-protection-shackle.svg.png" decoding="async" width="20" height="20" srcset="//upload.wikimedia.org/wikipedia/en/thumb/1/1b/Semi-protection-shackle.svg/30px-Semi-protection-shackle.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/1/1b/Semi-protection-shackle.svg/40px-Semi-protection-shackle.svg.png 2x" data-file-width="512" data-file-height="512" /></a></div>
+</div>
+
+	<h1 id="firstHeading" class="firstHeading" lang="en">Wikipedia:Contents/Health and fitness</h1>
+	
+	<div id="bodyContent" class="mw-body-content">
+		<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
+		<div id="contentSub"><span class="subpages">&lt; <a href="/wiki/Wikipedia:Contents" title="Wikipedia:Contents">Wikipedia:Contents</a></span></div>
+		
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#p-search">Jump to search</a>
+		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><p class="mw-empty-elt">
+</p>
+<div class="shortdescription nomobile noexcerpt noprint searchaux" style="display:none">Portal</div>
+<div class="hlist noprint" style="text-align: center;">
+<ul><li><a href="/wiki/Wikipedia:Contents" title="Wikipedia:Contents">Contents</a></li>
+<li><a href="/wiki/Wikipedia:Contents/Overviews" title="Wikipedia:Contents/Overviews">Overviews</a></li>
+<li><a href="/wiki/Wikipedia:Contents/Outlines" title="Wikipedia:Contents/Outlines">Outlines</a></li>
+<li><a href="/wiki/Wikipedia:Contents/Lists" title="Wikipedia:Contents/Lists">Lists</a></li>
+<li><a href="/wiki/Wikipedia:Contents/Portals" title="Wikipedia:Contents/Portals">Portals</a></li>
+<li><a href="/wiki/Wikipedia:Contents/A%E2%80%93Z_index" title="Wikipedia:Contents/A–Z index">A–Z index</a></li>
+<li><a href="/wiki/Wikipedia:Contents/Glossaries" title="Wikipedia:Contents/Glossaries">Glossaries</a></li>
+<li><a href="/wiki/Wikipedia:Contents/Categories" title="Wikipedia:Contents/Categories">Categories</a></li>
+<li><a href="/wiki/Wikipedia:Contents/Indices" title="Wikipedia:Contents/Indices">Indices</a></li></ul>
+</div>
+<div class="hlist noprint" style="text-align: center; margin-bottom: 1em;">
+<ul><li><a href="/wiki/Wikipedia:Contents/Reference" title="Wikipedia:Contents/Reference">Reference</a></li>
+<li><a href="/wiki/Wikipedia:Contents/Culture_and_the_arts" title="Wikipedia:Contents/Culture and the arts">Culture</a></li>
+<li><a href="/wiki/Wikipedia:Contents/Geography_and_places" title="Wikipedia:Contents/Geography and places">Geography</a></li>
+<li><a class="mw-selflink selflink">Health</a></li>
+<li><a href="/wiki/Wikipedia:Contents/History_and_events" title="Wikipedia:Contents/History and events">History</a></li>
+<li><a href="/wiki/Wikipedia:Contents/Human_activities" title="Wikipedia:Contents/Human activities">Human activities</a></li>
+<li><a href="/wiki/Wikipedia:Contents/Mathematics_and_logic" title="Wikipedia:Contents/Mathematics and logic">Mathematics</a></li>
+<li><a href="/wiki/Wikipedia:Contents/Natural_and_physical_sciences" title="Wikipedia:Contents/Natural and physical sciences">Nature</a></li>
+<li><a href="/wiki/Wikipedia:Contents/People_and_self" title="Wikipedia:Contents/People and self">People</a></li>
+<li><a href="/wiki/Wikipedia:Contents/Philosophy_and_thinking" title="Wikipedia:Contents/Philosophy and thinking">Philosophy</a></li>
+<li><a href="/wiki/Wikipedia:Contents/Religion_and_belief_systems" title="Wikipedia:Contents/Religion and belief systems">Religion</a></li>
+<li><a href="/wiki/Wikipedia:Contents/Society_and_social_sciences" title="Wikipedia:Contents/Society and social sciences">Society</a></li>
+<li><a href="/wiki/Wikipedia:Contents/Technology_and_applied_sciences" title="Wikipedia:Contents/Technology and applied sciences">Technology</a></li></ul>
+</div>
+<table width="100%" cellpadding="0" cellspacing="0" style="background:#F5FAFF; border-style:solid; border-width:2px; border-color: #A3B1BF">
+<tbody><tr>
+<td width="55%" valign="top" style="padding: 0; margin:0;">
+<div style="float:right; width:100%">
+<div class="box-header-title-container flex-columns-noflex" style="clear:both;color:#black;margin-bottom:0px;border:solid 0px solid #A3B1BF;border-bottom:1px solid #A3B1BF;box-sizing:border-box;text-align:center;font-size:100%;background:#CEE0F2;font-family:sans-serif;padding:1em;;border-width:0px 0px 0;padding-top:.1em;padding-left:1.25em;padding-right:1.25em;padding-bottom:1.25em;padding-top:1.25em;moz-border-radius:0;webkit-border-radius:0;border-radius:0"><div class="plainlinks noprint" style="float:right;margin-bottom:.1em;color:#black;font-size:80%"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Wikipedia%3AContents%2FHealth_and_fitness%2FIntro&amp;action=edit"><span style="color:#black">edit</span></a>&#160;<a class="external text" href="https://en.wikipedia.org/w/index.php?title=Wikipedia:Contents/Health_and_fitness/Intro&amp;action=watch"><span style="color: #black; min-width:40px; display:table-cell;">watch</span></a>&#160;</div><h2 style="font-weight:bold;padding:0;margin:0;color:#black;font-family:sans-serif;border:none;font-size:100%;padding-bottom:.1em;margin-left:60px"><span id="Wikipedia.27s_contents:_Health_and_fitness"></span><span class="mw-headline" id="Wikipedia's_contents:_Health_and_fitness"><big><big>Wikipedia's contents: Health and fitness</big></big></span></h2></div><div style="color:black;opacity:1;border:0px solid #A3B1BF;border-bottom:0px solid #A3B1BF;;box-sizing:border-box;text-align:left;padding:1em;;background:#E6F2FF;margin:0 0 10px;vertical-align:top;border-top-width:1px;padding-top:.3em;-moz-border-radius:0;-webkit-border-radius:0;border-radius:0">
+<div style="float:right;margin-left:1em"><a href="/wiki/File:Vegetable_Cart_in_Guntur.jpg" class="image" title="Vegetables for sale on a street in Guntur, India."><img alt="Vegetables for sale on a street in Guntur, India." src="//upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Vegetable_Cart_in_Guntur.jpg/150px-Vegetable_Cart_in_Guntur.jpg" decoding="async" width="150" height="113" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Vegetable_Cart_in_Guntur.jpg/225px-Vegetable_Cart_in_Guntur.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Vegetable_Cart_in_Guntur.jpg/300px-Vegetable_Cart_in_Guntur.jpg 2x" data-file-width="2272" data-file-height="1704" /></a></div>
+<p>Health is the level of functional or metabolic efficiency of a living organism. In humans, it is the ability of individuals or communities to adapt and self-manage when facing physical, mental, or social challenges. The most widely accepted definition of good <b><a href="/wiki/Health" title="Health">health</a></b> is that of the World Health Organization Constitution. It states: "health is a state of complete physical, mental and social well-being and is not merely the absence of disease or infirmity" (World Health Organization, 1946). In more recent years, this statement has been amplified to include the ability to lead a "socially and economically productive life." The WHO definition is not without criticism; mainly that it is much too broad.
+</p><p>The most solid aspects of wellness that fit firmly in the realm of medicine are environmental health, nutrition, disease prevention, and public health. These matters can be investigated at length, and can assist in measuring well-being. Please see our <b><a href="/wiki/Wikipedia:Medical_disclaimer" title="Wikipedia:Medical disclaimer">medical disclaimer</a></b> for cautions about Wikipedia's limitations.
+</p>
+<table class="noprint" width="100%" border="0" style="padding: 0; margin: 0; background color:transparent">
+
+<tbody><tr>
+<td>
+ <div style="text-align:right;margin-right:0px;margin-bottom:0px;">
+<p><b><a href="/wiki/Health" title="Health">More about Health...</a></b>
+</p>
+ </div>
+</td></tr></tbody></table>
+<div class="noprint" style="margin:0.3em 0.2em 0.2em 0.3em; padding:0.3em 0.2em 0.2em 0.3em; text-align:right;"><b></b></div><div style="clear:both;"></div></div>
+<div style="text-align:center; margin:-7px; padding-bottom:10px;"><b>Health and fitness: <a href="#Overviews">Overviews</a> • <a href="#Outlines">Outlines</a> • <a href="#Lists">Lists</a> • <a href="#Portals">Portals</a> •  <a href="#Glossaries">Glossaries</a> • <a href="#Categories">Categories</a> • <a href="#Indices">Indices</a></b></div>
+<p><span id="Overviews"></span>
+</p>
+<div class="box-header-title-container flex-columns-noflex" style="clear:both;color:#black;margin-bottom:0px;border:solid 1px solid #A3B1BF;border-bottom:1px solid #A3B1BF;box-sizing:border-box;text-align:center;font-size:100%;background:#CEE0F2;font-family:sans-serif;padding:1em;;border-width:0px 0px 0;padding-top:.1em;padding-left:.1em;padding-right:.1em;padding-bottom:.1em;padding-top:.1em;moz-border-radius:0;webkit-border-radius:0;border-radius:0"><div class="plainlinks noprint" style="float:right;margin-bottom:.1em;color:#black;font-size:80%"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Wikipedia%3AContents%2FOverviews%2FHealth_and_fitness&amp;action=edit"><span style="color:#black">edit</span></a>&#160;<a class="external text" href="https://en.wikipedia.org/w/index.php?title=Wikipedia:Contents/Overviews/Health_and_fitness&amp;action=watch"><span style="color: #black; min-width:40px; display:table-cell;">watch</span></a>&#160;</div><h2 style="font-weight:bold;padding:0;margin:0;color:#black;font-family:sans-serif;border:none;font-size:100%;padding-bottom:.1em;margin-left:60px"><span id="Overviews_.28see_for_all_subject_areas.29"></span><span class="mw-headline" id="Overviews_(see_for_all_subject_areas)"><big><a href="/wiki/File:P_literature.svg" class="image"><img alt="P literature.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/1d/P_literature.svg/30px-P_literature.svg.png" decoding="async" width="30" height="27" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/1d/P_literature.svg/45px-P_literature.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/1d/P_literature.svg/60px-P_literature.svg.png 2x" data-file-width="400" data-file-height="360" /></a> Overviews &#160;&#160;(<a href="/wiki/Wikipedia:Contents/Overviews" title="Wikipedia:Contents/Overviews"><small>see for all subject areas</small></a>)</big></span></h2></div><div style="color:black;opacity:1;border:0px solid #A3B1BF;border-bottom:0px solid #A3B1BF;;box-sizing:border-box;text-align:left;padding:1em;;background:#F5FAFF;margin:0 0 10px;vertical-align:top;border-top-width:1px;padding-top:.3em;-moz-border-radius:0;-webkit-border-radius:0;border-radius:0">
+<div role="note" class="hatnote navigation-not-searchable">Main articles: <a href="/wiki/Health" title="Health">Health</a>, <a href="/wiki/Self-care" title="Self-care">Self-care</a>, and <a href="/wiki/Health_science" class="mw-redirect" title="Health science">Health science</a></div> 
+<p><i><b>General</b></i> &#160;&#8211; <a href="/wiki/Health_care" title="Health care">Health care</a>&#160;• <a href="/wiki/Health_care_industry" class="mw-redirect" title="Health care industry">Health care industry</a>&#160;• <a href="/wiki/Health_disparities" class="mw-redirect" title="Health disparities">Health disparities</a>&#160;• <a href="/wiki/Mental_health" title="Mental health">Mental health</a>&#160;• <a href="/wiki/Population_health" title="Population health">Population health</a>&#160;• <a href="/wiki/Preventive_medicine" class="mw-redirect" title="Preventive medicine">Preventive medicine</a>&#160;• <a href="/wiki/Public_health" title="Public health">Public health</a>&#160;• <a href="/wiki/Complementary_and_alternative_medicine" class="mw-redirect" title="Complementary and alternative medicine">Complementary and alternative medicine</a>
+</p><p><i><b><a href="/wiki/Self-care" title="Self-care">Self-care</a></b></i>&#160;&#8211; <a href="/wiki/Body_composition" title="Body composition">Body composition</a>&#160;• <a href="/wiki/Life_extension" title="Life extension">Life extension</a>&#160;• <a href="/wiki/Longevity" title="Longevity">Longevity</a>&#160;• <a href="/wiki/Physical_fitness" title="Physical fitness">Physical fitness</a>
+</p>
+<dl><dd><i><b><a href="/wiki/Nutrition" title="Nutrition">Nutrition</a></b></i>&#160;&#8211; <a href="/wiki/Calorie_restriction" title="Calorie restriction">Calorie restriction</a>&#160;• <a href="/wiki/Dietary_supplement" title="Dietary supplement">Dietary supplements</a> (<a href="/wiki/Amino_acid" title="Amino acid">Amino acids</a>, <a href="/wiki/Dietary_mineral" class="mw-redirect" title="Dietary mineral">Minerals</a>, <a href="/wiki/Nootropic" title="Nootropic">Nootropics</a>, <a href="/wiki/Nutrient" title="Nutrient">Nutrients</a>, <a href="/wiki/Vitamin" title="Vitamin">Vitamins</a>)&#160;• <a href="/wiki/Diet_(nutrition)" title="Diet (nutrition)">Diet (nutrition)</a>&#160;• <a href="/wiki/Dieting" title="Dieting">Dieting</a>&#160;• <a href="/wiki/Healthy_eating_pyramid" title="Healthy eating pyramid">Healthy eating pyramid</a></dd></dl>
+<dl><dd><span id="Exercise"></span> <i><b><a href="/wiki/Physical_exercise" class="mw-redirect" title="Physical exercise">Physical exercise</a></b></i>&#160;&#8211; <a href="/wiki/Stretching" title="Stretching">Stretching</a>&#160;• <a href="/wiki/Overtraining" title="Overtraining">Overtraining</a>&#160;• <a href="/wiki/Aerobic_exercise" title="Aerobic exercise">Aerobic exercise</a>&#160;• <a href="/wiki/Anaerobic_exercise" title="Anaerobic exercise">Anaerobic exercise</a>&#160;• <a href="/wiki/Sport" title="Sport">Sport</a>&#160;• <a href="/wiki/Walking" title="Walking">Walking</a></dd></dl>
+<dl><dd><i><b><a href="/wiki/Hygiene" title="Hygiene">Hygiene</a></b></i>&#160;&#8211; <a href="/wiki/Cleanliness" title="Cleanliness">Cleanliness</a>&#160;• <a href="/wiki/Oral_hygiene" title="Oral hygiene">Oral hygiene</a>&#160;• <a href="/wiki/Occupational_hygiene" title="Occupational hygiene">Occupational hygiene</a></dd></dl>
+<p><i><b><a href="/wiki/Health_science" class="mw-redirect" title="Health science">Health science</a></b></i>&#160;&#8211; <a href="/wiki/Dentistry" title="Dentistry">Dentistry</a>&#160;• <a href="/wiki/Occupational_therapy" title="Occupational therapy">Occupational therapy</a>&#160;• <a href="/wiki/Optometry" title="Optometry">Optometry</a>&#160;• <a href="/wiki/Pharmacy" title="Pharmacy">Pharmacy</a>&#160;• <a href="/wiki/Physiotherapy" class="mw-redirect" title="Physiotherapy">Physiotherapy</a>&#160;• <a href="/wiki/Speech-Language_Pathology" class="mw-redirect" title="Speech-Language Pathology">Speech-Language Pathology</a>
+</p>
+<dl><dd><span id="Medicine"></span> <i><b><a href="/wiki/Medicine" title="Medicine">Medicine</a></b></i>&#160;&#8211; <a href="/wiki/Midwifery" title="Midwifery">Midwifery</a>&#160;• <a href="/wiki/Nursing" title="Nursing">Nursing</a>&#160;• <a href="/wiki/Veterinary_medicine" title="Veterinary medicine">Veterinary medicine</a>&#160;• <a href="/wiki/Dentistry" title="Dentistry">Dentistry</a>&#160;• <a href="/wiki/Alternative_medicine" title="Alternative medicine">Alternative medicine</a></dd></dl>
+<dl><dd><dl><dd><i><b><a href="/wiki/Medicine" title="Medicine">Human medicine</a></b></i>&#160;&#8211; <a href="/wiki/Anesthesiology" title="Anesthesiology">Anesthesiology</a>&#160;• <a href="/wiki/Cardiology" title="Cardiology">Cardiology</a>&#160;• <a href="/wiki/Dermatology" title="Dermatology">Dermatology</a>&#160;• <a href="/wiki/Emergency_medicine" title="Emergency medicine">Emergency medicine</a>&#160;• <a href="/wiki/Endocrinology" title="Endocrinology">Endocrinology</a> and <a href="/wiki/Diabetology" class="mw-redirect" title="Diabetology">Diabetology</a>&#160;• <a href="/wiki/Epidemiology" title="Epidemiology">Epidemiology</a>&#160;• <a href="/wiki/Geriatrics" title="Geriatrics">Geriatrics</a>&#160;• <a href="/wiki/Hematology" title="Hematology">Hematology</a>&#160;• <a href="/wiki/Internal_medicine" title="Internal medicine">Internal medicine</a>&#160;• <a href="/wiki/Nephrology" title="Nephrology">Nephrology</a>&#160;• <a href="/wiki/Neurology" title="Neurology">Neurology</a>&#160;• <a href="/wiki/Oncology" title="Oncology">Oncology</a>&#160;• <a href="/wiki/Pathology" title="Pathology">Pathology</a>&#160;• <a href="/wiki/Pediatrics" title="Pediatrics">Pediatrics</a>&#160;• <a href="/wiki/Psychiatry" title="Psychiatry">Psychiatry</a>&#160;• <a href="/wiki/Rheumatology" title="Rheumatology">Rheumatology</a>&#160;• <a href="/wiki/Surgery" title="Surgery">Surgery</a>&#160;• <a href="/wiki/Urology" title="Urology">Urology</a></dd></dl></dd></dl>
+<dl><dd><i><b><a href="/wiki/Illness" class="mw-redirect" title="Illness">Illness</a></b></i> &#160;&#8211; <a href="/wiki/Aging" class="mw-redirect" title="Aging">Aging</a>&#160;• <a href="/wiki/Alcoholism" title="Alcoholism">Alcoholism</a>&#160;• <a href="/wiki/Atrophy" title="Atrophy">Atrophy</a>&#160;• <a href="/wiki/Deficiency_disease" class="mw-redirect" title="Deficiency disease">Deficiency disease</a>&#160;• <a href="/wiki/Clinical_depression" class="mw-redirect" title="Clinical depression">Depression</a>&#160;• <a href="/wiki/Disease" title="Disease">Disease</a>&#160;• <a href="/wiki/Types_of_disorders" class="mw-redirect" title="Types of disorders">Disorders (types)</a>&#160;• <a href="/wiki/Drug_abuse" class="mw-redirect" title="Drug abuse">Drug abuse</a>&#160;• <a href="/wiki/Eating_disorder" title="Eating disorder">Eating disorder</a>&#160;• <a href="/wiki/Foodborne_illness" title="Foodborne illness">Foodborne illness</a>&#160;• <a href="/wiki/Malnutrition" title="Malnutrition">Malnutrition</a>&#160;• <a href="/wiki/Obesity" title="Obesity">Obesity</a>&#160;• <a href="/wiki/Tobacco_smoking" title="Tobacco smoking">Smoking</a></dd></dl>
+<div class="noprint" style="margin:0.3em 0.2em 0.2em 0.3em; padding:0.3em 0.2em 0.2em 0.3em; text-align:right;"><b></b></div><div style="clear:both;"></div></div>
+<p><span id="Outlines"></span>
+</p>
+<div class="box-header-title-container flex-columns-noflex" style="clear:both;color:#black;margin-bottom:0px;border:solid 1px solid #A3B1BF;border-bottom:1px solid #A3B1BF;box-sizing:border-box;text-align:center;font-size:100%;background:#CEE0F2;font-family:sans-serif;padding:1em;;border-width:0px 0px 0;padding-top:.1em;padding-left:.1em;padding-right:.1em;padding-bottom:.1em;padding-top:.1em;moz-border-radius:0;webkit-border-radius:0;border-radius:0"><div class="plainlinks noprint" style="float:right;margin-bottom:.1em;color:#black;font-size:80%"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Wikipedia%3AContents%2FOutlines%2FHealth_and_fitness&amp;action=edit"><span style="color:#black">edit</span></a>&#160;<a class="external text" href="https://en.wikipedia.org/w/index.php?title=Wikipedia:Contents/Outlines/Health_and_fitness&amp;action=watch"><span style="color: #black; min-width:40px; display:table-cell;">watch</span></a>&#160;</div><h2 style="font-weight:bold;padding:0;margin:0;color:#black;font-family:sans-serif;border:none;font-size:100%;padding-bottom:.1em;margin-left:60px"><span id="Outlines_.28see_for_all_subject_areas.29"></span><span class="mw-headline" id="Outlines_(see_for_all_subject_areas)"><big><a href="/wiki/File:P_literature.svg" class="image"><img alt="P literature.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/1d/P_literature.svg/30px-P_literature.svg.png" decoding="async" width="30" height="27" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/1d/P_literature.svg/45px-P_literature.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/1d/P_literature.svg/60px-P_literature.svg.png 2x" data-file-width="400" data-file-height="360" /></a> Outlines &#160;&#160;(<a href="/wiki/Wikipedia:Contents/Outlines" title="Wikipedia:Contents/Outlines"><small>see for all subject areas</small></a>)
+</big></span></h2></div><div style="color:black;opacity:1;border:0px solid #A3B1BF;border-bottom:0px solid #A3B1BF;;box-sizing:border-box;text-align:left;padding:1em;;background:#F5FAFF;margin:0 0 10px;vertical-align:top;border-top-width:1px;padding-top:.3em;-moz-border-radius:0;-webkit-border-radius:0;border-radius:0">
+<dl><dd><i>See also: <a href="#Biology">Biology (below)</a></i></dd></dl>
+<p><b><a href="/wiki/Outline_of_health" title="Outline of health">Health</a></b> &#8211;  Health is a state of complete physical, mental and social well-being. This is a level of functional and (or) metabolic efficiency of a person in mind, body and spirit; being free from illness, injury or pain (as in “<i>good health</i>” or “<i>healthy</i>”). The <a href="/wiki/World_Health_Organization" title="World Health Organization">World Health Organization</a> (WHO) defined health in its broader sense in 1946 as "a state of complete physical, mental, and social well-being and not merely the absence of disease or infirmity."
+</p>
+<ul><li><a href="/wiki/Outline_of_death" title="Outline of death">Death</a> &#8211; cessation of life.</li>
+<li><a href="/wiki/Outline_of_exercise" title="Outline of exercise">Exercise</a> &#8211;  any bodily activity that enhances or maintains physical fitness and overall health and wellness. It is performed for various reasons including strengthening muscles and the cardiovascular system, honing athletic skills, weight loss or maintenance, and mental health including the prevention of depression. Frequent and regular physical exercise boosts the immune system, and helps prevent the "diseases of affluence" such as <a href="/wiki/Heart_disease" class="mw-redirect" title="Heart disease">heart disease</a>, cardiovascular disease, Type 2 diabetes mellitus and obesity.</li>
+<li><a href="/wiki/Outline_of_nutrition" class="mw-redirect" title="Outline of nutrition">Nutrition</a> &#8211; provision, to cells and organisms, of the materials necessary (in the form of food) to support life.</li>
+<li><a href="/wiki/Outline_of_life_extension" title="Outline of life extension">Life extension</a> &#8211; The study of slowing down or reversing the processes of aging to extend both the maximum and average lifespan.</li>
+<li><a href="/wiki/Outline_of_health_sciences" title="Outline of health sciences">Health sciences</a> &#8211; applied sciences that address the use of science, technology, engineering or mathematics in the delivery of healthcare to human beings.</li>
+<li><a href="/wiki/Outline_of_medicine" title="Outline of medicine">Medicine</a> &#8211; science and art of healing. It encompasses a variety of health care practices evolved to maintain and restore health by the prevention and treatment of illness.
+<ul><li><a href="/wiki/Outline_of_anesthesia" title="Outline of anesthesia">Anesthesia</a> &#8211; a way to control pain during a surgery or procedure by using medicine called anesthetics.</li>
+<li><a href="/wiki/Outline_of_cardiology" title="Outline of cardiology">Cardiology</a> &#8211; branch of medicine dealing with disorders of the human heart. The field includes medical diagnosis and treatment of congenital heart defects, coronary artery disease, heart failure, valvular heart disease and electrophysiology.</li>
+<li><a href="/wiki/Outline_of_clinical_research" title="Outline of clinical research">Clinical research</a> &#8211; aspect of biomedical research that addresses the assessment of new pharmaceutical and biological drugs, medical devices and vaccines in humans.</li>
+<li><a href="/wiki/Outline_of_diabetes" title="Outline of diabetes">Diabetes</a> &#8211; a group of metabolic diseases in which the person has high blood glucose (blood sugar) above 200mg/dl, either because insulin production is inadequate, or because the body's cells do not respond properly to insulin, or both.</li>
+<li><a href="/wiki/Outline_of_dentistry" class="mw-redirect" title="Outline of dentistry">Dentistry</a> &#8211; branch of medicine that is involved in the study, diagnosis, prevention, and treatment of diseases, disorders and conditions of the mouth, maxillofacial area and the adjacent and associated structures (teeth) and their impact on the human body.</li>
+<li><a href="/wiki/Outline_of_emergency_medicine" title="Outline of emergency medicine">Emergency medicine</a> &#8211; medical specialty involving care for undifferentiated, unscheduled patients with acute illnesses or injuries that require immediate medical attention. Emergency physicians undertake acute investigations and interventions to resuscitate and stabilize patients.</li>
+<li><a href="/wiki/Outline_of_obstetrics" title="Outline of obstetrics">Obstetrics</a> &#8211; medical specialty dealing with the care of all women's reproductive tracts and their children during pregnancy (prenatal period), childbirth and the postnatal period.</li>
+<li><a href="/wiki/Outline_of_trauma_and_orthopedics" title="Outline of trauma and orthopedics">Trauma and Orthopedics</a> &#8211; medical specialty dealing with bones, joints and operative management of trauma.</li>
+<li><a href="/wiki/Outline_of_psychiatry" title="Outline of psychiatry">Psychiatry</a> &#8211; medical specialty devoted to the study and treatment of mental disorders. These mental disorders include various affective, behavioural, cognitive and perceptual abnormalities.
+<ul><li><a href="/wiki/Outline_of_autism" title="Outline of autism">Autism</a> a mental condition, present from early childhood, characterized by great difficulty in communicating and forming relationships with other people and in using language and abstract concepts.</li>
+<li><a href="/wiki/Outline_of_bipolar_disorder" title="Outline of bipolar disorder">Bipolar disorder</a> &#8211; mental disorder that causes periods of depression and periods of abnormally elevated mood.</li>
+<li><a href="/wiki/Outline_of_the_psychiatric_survivors_movement" title="Outline of the psychiatric survivors movement">Psychiatric survivors movement</a> &#8211; is a diverse association of individuals who either currently access mental health services (known as consumers or service users), or who are survivors of interventions by psychiatry, or who are ex-patients of mental health.</li></ul></li></ul></li></ul>
+<div class="noprint" style="margin:0.3em 0.2em 0.2em 0.3em; padding:0.3em 0.2em 0.2em 0.3em; text-align:right;"><b></b></div><div style="clear:both;"></div></div> 
+<p><span id="Lists"></span>
+</p>
+<div class="box-header-title-container flex-columns-noflex" style="clear:both;color:#black;margin-bottom:0px;border:solid 1px solid #A3B1BF;border-bottom:1px solid #A3B1BF;box-sizing:border-box;text-align:center;font-size:100%;background:#CEE0F2;font-family:sans-serif;padding:1em;;border-width:0px 0px 0;padding-top:.1em;padding-left:.1em;padding-right:.1em;padding-bottom:.1em;padding-top:.1em;moz-border-radius:0;webkit-border-radius:0;border-radius:0"><div class="plainlinks noprint" style="float:right;margin-bottom:.1em;color:#black;font-size:80%"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Wikipedia%3AContents%2FLists%2FHealth_and_fitness&amp;action=edit"><span style="color:#black">edit</span></a>&#160;<a class="external text" href="https://en.wikipedia.org/w/index.php?title=Wikipedia:Contents/Lists/Health_and_fitness&amp;action=watch"><span style="color: #black; min-width:40px; display:table-cell;">watch</span></a>&#160;</div><h2 style="font-weight:bold;padding:0;margin:0;color:#black;font-family:sans-serif;border:none;font-size:100%;padding-bottom:.1em;margin-left:60px"><span id="Lists_.28see_for_all_subject_areas.29"></span><span class="mw-headline" id="Lists_(see_for_all_subject_areas)"><big><a href="/wiki/File:P_literature.svg" class="image"><img alt="P literature.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/1d/P_literature.svg/30px-P_literature.svg.png" decoding="async" width="30" height="27" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/1d/P_literature.svg/45px-P_literature.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/1d/P_literature.svg/60px-P_literature.svg.png 2x" data-file-width="400" data-file-height="360" /></a> Lists &#160;&#160;(<a href="/wiki/Wikipedia:Contents/Lists" title="Wikipedia:Contents/Lists"><small>see for all subject areas</small></a>)
+</big></span></h2></div><div style="color:black;opacity:1;border:0px solid #A3B1BF;border-bottom:0px solid #A3B1BF;;box-sizing:border-box;text-align:left;padding:1em;;background:#F5FAFF;margin:0 0 10px;vertical-align:top;border-top-width:1px;padding-top:.3em;-moz-border-radius:0;-webkit-border-radius:0;border-radius:0">
+<dl><dt><i>Medicine</i></dt>
+<dd><a href="/wiki/Acronyms_in_healthcare" title="Acronyms in healthcare">Acronyms in healthcare</a>&#160;• <a href="/wiki/List_of_medical_abbreviations" title="List of medical abbreviations">Abbreviations</a>&#160; (<a href="/wiki/List_of_abbreviations_for_medical_organisations_and_personnel" title="List of abbreviations for medical organisations and personnel">for medical organizations and personnel</a>)&#160;• <a href="/wiki/List_of_branches_of_alternative_medicine" class="mw-redirect" title="List of branches of alternative medicine">Alternative medicine</a>&#160;• <a href="/wiki/List_of_drugs" title="List of drugs">Pharmaceutical Drugs</a>&#160;• <a href="/wiki/List_of_psychiatric_drugs" class="mw-redirect" title="List of psychiatric drugs">Psychiatric drugs</a> (<a href="/wiki/List_of_psychiatric_drugs_by_condition_treated" class="mw-redirect" title="List of psychiatric drugs by condition treated">by condition treated</a>)&#160;• <a href="/wiki/List_of_psychotherapies" title="List of psychotherapies">Psychotherapies</a>&#160;• <a href="/wiki/Reference_ranges_for_common_blood_tests" class="mw-redirect" title="Reference ranges for common blood tests">Reference ranges for common blood tests</a>&#160;• <a href="/wiki/List_of_surgical_procedures" title="List of surgical procedures">Surgical procedures</a>&#160;• <a href="/wiki/List_of_medical_symptoms" title="List of medical symptoms">Symptoms</a></dd></dl>
+<dl><dt><i><a href="/wiki/Lists_of_diseases" title="Lists of diseases">Diseases</a></i></dt>
+<dd><a href="/wiki/List_of_genetic_disorders" title="List of genetic disorders">Genetic disorders</a>&#160;• <a href="/wiki/List_of_infectious_diseases" title="List of infectious diseases">Infectious diseases</a>&#160;• <a href="/wiki/Mental_illness_(alphabetical_list)" class="mw-redirect" title="Mental illness (alphabetical list)">Mental illnesses</a>&#160;• <a href="/wiki/List_of_notifiable_diseases" title="List of notifiable diseases">Notifiable diseases</a>&#160;• <a href="/wiki/List_of_neurological_disorders" class="mw-redirect" title="List of neurological disorders">Neurological disorders</a>&#160;• <a href="/wiki/DSM-IV_codes" title="DSM-IV codes">List of DSM-IV codes</a></dd></dl>
+<dl><dt><i>Foods and Nutrition</i></dt>
+<dd><a href="/wiki/List_of_antioxidants_in_food" title="List of antioxidants in food">Antioxidants in food</a>&#160;• <a href="/wiki/B_vitamins#List_of_B_vitamins" title="B vitamins">B vitamins</a>&#160;• <a href="/wiki/List_of_beverages" class="mw-redirect" title="List of beverages">Beverages</a>&#160;• <a href="/wiki/List_of_cuisines" title="List of cuisines">Cuisines</a>&#160;(<a href="/wiki/List_of_African_cuisines" title="List of African cuisines">African</a>&#160;• <a href="/wiki/List_of_cuisines_of_the_Americas" title="List of cuisines of the Americas">Americas</a>&#160;• <a href="/wiki/List_of_Asian_cuisines" title="List of Asian cuisines">Asian</a>&#160;• <a href="/wiki/List_of_European_cuisines" title="List of European cuisines">European</a>&#160;• <a href="/wiki/Oceanic_cuisine" title="Oceanic cuisine">Oceanic</a>)&#160;• <a href="/wiki/List_of_diets" title="List of diets">Diets</a>&#160;• <a href="/wiki/List_of_foods" class="mw-redirect" title="List of foods">Foods</a>&#160;(<a href="/wiki/List_of_food_origins" title="List of food origins">Food origins</a>&#160;• <a href="/wiki/List_of_culinary_fruits" title="List of culinary fruits">Fruit</a>&#160;• <a href="/wiki/List_of_culinary_herbs_and_spices" title="List of culinary herbs and spices">Herbs and spices</a>&#160;• <a href="/wiki/List_of_domesticated_meat_animals" title="List of domesticated meat animals">Meat</a>&#160;• <a href="/wiki/List_of_culinary_nuts" title="List of culinary nuts">Nuts</a>&#160;• <a href="/wiki/Lists_of_prepared_foods" title="Lists of prepared foods">Prepared foods</a>&#160;• <a href="/wiki/List_of_types_of_seafood" title="List of types of seafood">Seafood</a>&#160;• <a href="/wiki/List_of_edible_seeds" title="List of edible seeds">Seeds</a>&#160;• <a href="/wiki/List_of_vegetables" title="List of vegetables">Vegetables</a>)&#160;• <a href="/wiki/List_of_food_additives" title="List of food additives">Food additives</a> (<a href="/wiki/International_Numbering_System_for_Food_Additives" title="International Numbering System for Food Additives">Codex Alimentarius</a>)&#160;• <a href="/wiki/List_of_macronutrients" title="List of macronutrients">Macronutrients</a>&#160;• <a href="/wiki/List_of_micronutrients" title="List of micronutrients">Micronutrients</a>&#160;• <a href="/wiki/Nootropic" title="Nootropic">Nootropics (smart drugs)</a>&#160;• <a href="/wiki/Illnesses_related_to_poor_nutrition" class="mw-redirect" title="Illnesses related to poor nutrition">Poor nutrition</a></dd></dl>
+<div class="noprint" style="margin:0.3em 0.2em 0.2em 0.3em; padding:0.3em 0.2em 0.2em 0.3em; text-align:right;"><b></b></div><div style="clear:both;"></div></div>
+<p><span id="Portals"></span>
+</p>
+<div class="box-header-title-container flex-columns-noflex" style="clear:both;color:#black;margin-bottom:0px;border:solid 1px solid #A3B1BF;border-bottom:1px solid #A3B1BF;box-sizing:border-box;text-align:center;font-size:100%;background:#CEE0F2;font-family:sans-serif;padding:1em;;border-width:0px 0px 0;padding-top:.1em;padding-left:.1em;padding-right:.1em;padding-bottom:.1em;padding-top:.1em;moz-border-radius:0;webkit-border-radius:0;border-radius:0"><div class="plainlinks noprint" style="float:right;margin-bottom:.1em;color:#black;font-size:80%"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Wikipedia%3AContents%2FPortals%2FHealth_and_fitness&amp;action=edit"><span style="color:#black">edit</span></a>&#160;<a class="external text" href="https://en.wikipedia.org/w/index.php?title=Wikipedia:Contents/Portals/Health_and_fitness&amp;action=watch"><span style="color: #black; min-width:40px; display:table-cell;">watch</span></a>&#160;</div><h2 style="font-weight:bold;padding:0;margin:0;color:#black;font-family:sans-serif;border:none;font-size:100%;padding-bottom:.1em;margin-left:60px"><span id="Portals_.28see_for_all_subject_areas.29"></span><span class="mw-headline" id="Portals_(see_for_all_subject_areas)"><big><a href="/wiki/File:Portal-puzzle.svg" class="image"><img alt="Portal-puzzle.svg" src="//upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/30px-Portal-puzzle.svg.png" decoding="async" width="30" height="26" srcset="//upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/45px-Portal-puzzle.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/60px-Portal-puzzle.svg.png 2x" data-file-width="32" data-file-height="28" /></a> Portals &#160;&#160;(<a href="/wiki/Wikipedia:Contents/Portals" title="Wikipedia:Contents/Portals"><small>see for all subject areas</small></a>)
+</big></span></h2></div><div style="color:black;opacity:1;border:0px solid #A3B1BF;border-bottom:0px solid #A3B1BF;;box-sizing:border-box;text-align:left;padding:1em;;background:#F5FAFF;margin:0 0 10px;vertical-align:top;border-top-width:1px;padding-top:.3em;-moz-border-radius:0;-webkit-border-radius:0;border-radius:0">
+<div class="div-col columns column-width" style="-moz-column-width: 50em; -webkit-column-width: 50em; column-width: 50em;">
+<dl><dd><b><a href="/wiki/Portal:Medicine" title="Portal:Medicine">Medicine</a></b>
+<dl><dd><div class="hlist hlist-separated"><ul><li><a href="/wiki/Portal:Biology" title="Portal:Biology">Biology</a></li><li><a href="/wiki/Portal:Cannabis" title="Portal:Cannabis">Cannabis</a></li><li><a href="/wiki/Portal:Coronavirus_disease_2019" title="Portal:Coronavirus disease 2019">Coronavirus disease 2019</a></li><li><a href="/wiki/Portal:Psychiatry" title="Portal:Psychiatry">Psychiatry</a></li><li><a href="/wiki/Portal:Human_sexuality" title="Portal:Human sexuality">Human sexuality</a></li></ul></div></dd></dl></dd>
+<dd><b><a href="/wiki/Portal:Food" title="Portal:Food">Food</a></b></dd></dl>
+</div>
+<div class="noprint" style="margin:0.3em 0.2em 0.2em 0.3em; padding:0.3em 0.2em 0.2em 0.3em; text-align:right;"><b></b></div><div style="clear:both;"></div></div>
+<p><span id="Glossaries"></span>
+</p>
+<div class="box-header-title-container flex-columns-noflex" style="clear:both;color:#black;margin-bottom:0px;border:solid 1px solid #A3B1BF;border-bottom:1px solid #A3B1BF;box-sizing:border-box;text-align:center;font-size:100%;background:#CEE0F2;font-family:sans-serif;padding:1em;;border-width:0px 0px 0;padding-top:.1em;padding-left:.1em;padding-right:.1em;padding-bottom:.1em;padding-top:.1em;moz-border-radius:0;webkit-border-radius:0;border-radius:0"><div class="plainlinks noprint" style="float:right;margin-bottom:.1em;color:#black;font-size:80%"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Wikipedia%3AContents%2FGlossaries%2FHealth_and_fitness&amp;action=edit"><span style="color:#black">edit</span></a>&#160;<a class="external text" href="https://en.wikipedia.org/w/index.php?title=Wikipedia:Contents/Glossaries/Health_and_fitness&amp;action=watch"><span style="color: #black; min-width:40px; display:table-cell;">watch</span></a>&#160;</div><h2 style="font-weight:bold;padding:0;margin:0;color:#black;font-family:sans-serif;border:none;font-size:100%;padding-bottom:.1em;margin-left:60px"><span id="Glossaries_.28see_for_all_subject_areas.29"></span><span class="mw-headline" id="Glossaries_(see_for_all_subject_areas)"><big><a href="/wiki/File:P_literature.svg" class="image"><img alt="P literature.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/1d/P_literature.svg/30px-P_literature.svg.png" decoding="async" width="30" height="27" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/1d/P_literature.svg/45px-P_literature.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/1d/P_literature.svg/60px-P_literature.svg.png 2x" data-file-width="400" data-file-height="360" /></a> Glossaries &#160;&#160;(<a href="/wiki/Wikipedia:Contents/Glossaries" title="Wikipedia:Contents/Glossaries"><small>see for all subject areas</small></a>)
+</big></span></h2></div><div style="color:black;opacity:1;border:0px solid #A3B1BF;border-bottom:0px solid #A3B1BF;;box-sizing:border-box;text-align:left;padding:1em;;background:#F5FAFF;margin:0 0 10px;vertical-align:top;border-top-width:1px;padding-top:.3em;-moz-border-radius:0;-webkit-border-radius:0;border-radius:0">
+<div class="hlist">
+<ul><li><a href="/wiki/Glossary_of_alternative_medicine" class="mw-redirect" title="Glossary of alternative medicine">Alternative medicine</a></li>
+<li><a href="/wiki/Anatomical_terminology" title="Anatomical terminology">Anatomy</a>
+<ul><li><a href="/wiki/Anatomical_terms_of_location" title="Anatomical terms of location">Location</a></li>
+<li><a href="/wiki/Anatomical_terms_of_motion" title="Anatomical terms of motion">Motion</a></li>
+<li><a href="/wiki/Anatomical_terms_of_bone" title="Anatomical terms of bone">Bone</a></li>
+<li><a href="/wiki/Anatomical_terms_of_muscle" title="Anatomical terms of muscle">Muscle</a></li></ul></li>
+<li><a href="/wiki/Glossary_of_medical_terms_related_to_communications_disorders" class="mw-redirect" title="Glossary of medical terms related to communications disorders">Communication disorders</a></li>
+<li><a href="/wiki/List_of_terms_associated_with_diabetes" class="mw-redirect" title="List of terms associated with diabetes">Diabetes</a></li>
+<li><a href="/wiki/Acronyms_in_healthcare" title="Acronyms in healthcare">Acronyms in healthcare</a></li>
+<li><a href="/wiki/Glossary_of_medicine" title="Glossary of medicine">Medicine</a>
+<ul><li><a href="/wiki/Medical_terminology" title="Medical terminology">Medical terminology</a></li>
+<li><a href="/wiki/List_of_medical_roots,_suffixes_and_prefixes" title="List of medical roots, suffixes and prefixes">Medical roots, suffixes and prefixes</a></li>
+<li><a href="/wiki/Medical_slang" title="Medical slang">Medical slang</a></li>
+<li><a href="/wiki/List_of_medical_abbreviations" title="List of medical abbreviations">Medical abbreviations</a></li>
+<li><a href="/wiki/List_of_abbreviations_used_in_medical_prescriptions" title="List of abbreviations used in medical prescriptions">Prescription abbreviations</a></li></ul></li>
+<li><a href="/wiki/Glossary_of_psychiatric_terms" class="mw-redirect" title="Glossary of psychiatric terms">Psychiatry</a></li>
+<li><a href="/wiki/Glossary_of_clinical_research" title="Glossary of clinical research">Clinical research</a></li></ul>
+</div>
+<div class="noprint" style="margin:0.3em 0.2em 0.2em 0.3em; padding:0.3em 0.2em 0.2em 0.3em; text-align:right;"><b></b></div><div style="clear:both;"></div></div>
+<span id="Categories"></span> <div class="box-header-title-container flex-columns-noflex" style="clear:both;color:#black;margin-bottom:0px;border:solid 1px solid #A3B1BF;border-bottom:1px solid #A3B1BF;box-sizing:border-box;text-align:center;font-size:100%;background:#CEE0F2;font-family:sans-serif;padding:1em;;border-width:0px 0px 0;padding-top:.1em;padding-left:.1em;padding-right:.1em;padding-bottom:.1em;padding-top:.1em;moz-border-radius:0;webkit-border-radius:0;border-radius:0"><div class="plainlinks noprint" style="float:right;margin-bottom:.1em;color:#black;font-size:80%"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Wikipedia%3AContents%2FCategories%2FHealth_and_fitness&amp;action=edit"><span style="color:#black">edit</span></a>&#160;<a class="external text" href="https://en.wikipedia.org/w/index.php?title=Wikipedia:Contents/Categories/Health_and_fitness&amp;action=watch"><span style="color: #black; min-width:40px; display:table-cell;">watch</span></a>&#160;</div><h2 style="font-weight:bold;padding:0;margin:0;color:#black;font-family:sans-serif;border:none;font-size:100%;padding-bottom:.1em;margin-left:60px"><span id="Categories_.28see_for_all_subject_areas.29"></span><span class="mw-headline" id="Categories_(see_for_all_subject_areas)"><big><a href="/wiki/File:C_Puzzle.png" class="image"><img alt="C Puzzle.png" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/da/C_Puzzle.png/27px-C_Puzzle.png" decoding="async" width="27" height="27" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/da/C_Puzzle.png/41px-C_Puzzle.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/da/C_Puzzle.png/54px-C_Puzzle.png 2x" data-file-width="150" data-file-height="150" /></a> Categories &#160;&#160;(<a href="/wiki/Wikipedia:Contents/Categories" title="Wikipedia:Contents/Categories"><small>see for all subject areas</small></a>)
+</big></span></h2></div><div style="color:black;opacity:1;border:0px solid #A3B1BF;border-bottom:0px solid #A3B1BF;;box-sizing:border-box;text-align:left;padding:1em;;background:#F5FAFF;margin:0 0 10px;vertical-align:top;border-top-width:1px;padding-top:.3em;-moz-border-radius:0;-webkit-border-radius:0;border-radius:0">
+<dl><dd><i>Main categories: <a href="/wiki/Category:Health" title="Category:Health">Health</a>, <a href="/wiki/Category:Self_care" title="Category:Self care">Self care</a>, and <a href="/wiki/Category:Health_care_occupations" title="Category:Health care occupations">Health care occupations</a></i></dd></dl>
+<div class="hlist" style="padding-top:0.5em;padding-bottom:0.5em;">
+<ul><li><i><b><a href="/wiki/Category:Self_care" title="Category:Self care">Self care</a></b></i></li>
+<li><a href="/wiki/Category:Health_promotion" title="Category:Health promotion">Health promotion</a></li>
+<li><a href="/wiki/Category:Life_extension" title="Category:Life extension">Life extension</a></li>
+<li><a href="/wiki/Category:Prevention" title="Category:Prevention">Prevention</a></li>
+<li><a href="/wiki/Category:Sexual_health" title="Category:Sexual health">Sexual health</a></li>
+<li><a href="/wiki/Category:Sleep" title="Category:Sleep">Sleep</a></li>
+<li><a href="/wiki/Category:Beauty" title="Category:Beauty">Skin Care</a></li></ul>
+</div>
+<div class="hlist" style="margin-left:1.0em;padding-bottom:0.5em;">
+<ul><li><i><b><a href="/wiki/Category:Nutrition" title="Category:Nutrition">Nutrition</a></b></i></li>
+<li><a href="/wiki/Category:Dietary_supplements" title="Category:Dietary supplements">Dietary supplements</a></li>
+<li><a href="/wiki/Category:Dietetics" title="Category:Dietetics">Dietetics</a></li>
+<li><a href="/wiki/Category:Nutrients" title="Category:Nutrients">Nutrients</a>
+<ul><li><a href="/wiki/Category:Amino_acids" title="Category:Amino acids">Amino acids</a></li>
+<li><a href="/wiki/Category:Dietary_minerals" title="Category:Dietary minerals">Minerals</a></li>
+<li><a href="/wiki/Category:Nootropics" title="Category:Nootropics">Nootropics</a></li>
+<li><a href="/wiki/Category:Phytochemicals" title="Category:Phytochemicals">Phytochemicals</a></li>
+<li><a href="/wiki/Category:Vitamins" title="Category:Vitamins">Vitamins</a></li></ul></li>
+<li><a href="/wiki/Category:Nutritional_advice_pyramids" title="Category:Nutritional advice pyramids">Nutritional advice pyramids</a></li></ul>
+</div>
+<div class="hlist" style="margin-left:1.0em;padding-bottom:0.5em;">
+<ul><li><i><b><a href="/wiki/Category:Physical_exercise" title="Category:Physical exercise">Exercise</a></b></i></li>
+<li><a href="/wiki/Category:Aerobics" title="Category:Aerobics">Aerobics</a></li>
+<li><a href="/wiki/Category:Bodyweight_exercise" title="Category:Bodyweight exercise">Bodyweight exercise (Calisthenics)</a></li>
+<li><a href="/wiki/Category:Cycling" title="Category:Cycling">Cycling</a></li>
+<li><a href="/wiki/Category:Exercise_equipment" title="Category:Exercise equipment">Exercise equipment</a></li>
+<li><a href="/wiki/Category:Exercise_instructors" title="Category:Exercise instructors">Exercise instructors</a></li>
+<li><a href="/wiki/Category:Dance" title="Category:Dance">Dancing</a></li>
+<li><a href="/wiki/Category:Exercise_physiology" title="Category:Exercise physiology">Exercise physiology</a></li>
+<li><a href="/wiki/Category:Hiking" title="Category:Hiking">Hiking</a></li>
+<li><a href="/wiki/Category:Pilates" title="Category:Pilates">Pilates</a></li>
+<li><a href="/wiki/Category:Running" title="Category:Running">Running</a></li>
+<li><a href="/wiki/Category:Sports" title="Category:Sports">Sports</a></li>
+<li><a href="/wiki/Category:Swimming" title="Category:Swimming">Swimming</a></li>
+<li><a href="/wiki/Category:Tai_chi" title="Category:Tai chi">Tai chi</a></li>
+<li><a href="/wiki/Category:Walking" title="Category:Walking">Walking</a></li>
+<li><a href="/wiki/Category:Weight_training" title="Category:Weight training">Weight training</a>
+<ul><li><a href="/wiki/Category:Weight_training_exercises" title="Category:Weight training exercises">exercises</a></li></ul></li>
+<li><a href="/wiki/Category:Yoga" title="Category:Yoga">Yoga</a></li></ul>
+</div>
+<div class="hlist" style="margin-left:1.0em;padding-bottom:0.5em;">
+<ul><li><i><b><a href="/wiki/Category:Hygiene" title="Category:Hygiene">Hygiene</a></b></i></li>
+<li><a href="/wiki/Category:Cleaning" title="Category:Cleaning">Cleaning</a></li>
+<li><a href="/wiki/Category:Oral_hygiene" title="Category:Oral hygiene">Oral hygiene</a></li></ul>
+</div>
+<div class="hlist" style="margin-left:1.0em;padding-bottom:0.5em;">
+<ul><li><i><b><a href="/wiki/Category:Positive_psychology" title="Category:Positive psychology">Positive psychology</a></b></i></li>
+<li><a href="/wiki/Category:Mental_health" title="Category:Mental health">Mental health</a></li>
+<li><a href="/wiki/Category:Psychotherapy" title="Category:Psychotherapy">Psychotherapy</a></li></ul>
+</div>
+<div class="hlist" style="padding-bottom:0.5em;">
+<ul><li><i><b><a href="/wiki/Category:Public_health" title="Category:Public health">Public health</a></b></i></li>
+<li><a href="/wiki/Category:Health_by_country" title="Category:Health by country">Health by country</a></li>
+<li><a href="/wiki/Category:Healthcare" title="Category:Healthcare">Healthcare</a></li>
+<li><a href="/wiki/Category:Health_law" title="Category:Health law">Health law</a></li>
+<li><a href="/wiki/Category:Health_promotion" title="Category:Health promotion">Health promotion</a></li>
+<li><a href="/wiki/Category:Health_standards" title="Category:Health standards">Health standards</a></li>
+<li><a href="/wiki/Category:Hospitals" title="Category:Hospitals">Hospitals</a></li>
+<li><a href="/wiki/Category:Occupational_safety_and_health" title="Category:Occupational safety and health">Occupational safety and health</a></li>
+<li><a href="/wiki/Category:Pharmaceutical_industry" title="Category:Pharmaceutical industry">Pharmaceutical industry</a></li>
+<li><a href="/wiki/Category:Pharmaceuticals_policy" title="Category:Pharmaceuticals policy">Pharmaceuticals policy</a></li>
+<li><a href="/wiki/Category:Safety" title="Category:Safety">Safety</a></li></ul>
+</div>
+<div class="hlist" style="padding-bottom:0.5em;">
+<ul><li><i><b><a href="/wiki/Category:Health_sciences" title="Category:Health sciences">Health science</a></b></i></li>
+<li><a href="/wiki/Category:Clinical_research" title="Category:Clinical research">Clinical research</a></li>
+<li><a href="/wiki/Category:Diseases_and_disorders" title="Category:Diseases and disorders">Diseases</a></li>
+<li><a href="/wiki/Category:Epidemiology" title="Category:Epidemiology">Epidemiology</a></li>
+<li><a href="/wiki/Category:Midwifery" title="Category:Midwifery">Midwifery</a></li>
+<li><a href="/wiki/Category:Nursing" title="Category:Nursing">Nursing</a></li>
+<li><a href="/wiki/Category:Nutrition" title="Category:Nutrition">Nutrition</a></li>
+<li><a href="/wiki/Category:Optometry" title="Category:Optometry">Optometry</a></li>
+<li><a href="/wiki/Category:Pharmacy" title="Category:Pharmacy">Pharmacy</a></li>
+<li><a href="/wiki/Category:Public_health" title="Category:Public health">Public health</a></li></ul>
+</div>
+<div class="hlist" style="margin-left:1.0em;padding-bottom:0.5em;">
+<ul><li><i><b><a href="/wiki/Category:Medicine" title="Category:Medicine">Medicine</a></b></i></li></ul>
+</div>
+<div class="hlist" style="margin-left:2.0em;padding-bottom:0.5em;">
+<ul><li><i><b><a href="/wiki/Category:Medicine" title="Category:Medicine">Human medicine</a></b></i></li>
+<li><a href="/wiki/Category:Alternative_medicine" title="Category:Alternative medicine">Alternative medicine</a></li>
+<li><a href="/wiki/Category:Cardiology" title="Category:Cardiology">Cardiology</a></li>
+<li><a href="/wiki/Category:Endocrinology" title="Category:Endocrinology">Endocrinology</a></li>
+<li><a href="/wiki/Category:Forensics" title="Category:Forensics">Forensics</a></li>
+<li><a href="/wiki/Category:Gastroenterology" title="Category:Gastroenterology">Gastroenterology</a></li>
+<li><a href="/wiki/Category:Genetics" title="Category:Genetics">Human Genetics</a></li>
+<li><a href="/wiki/Category:Geriatrics" title="Category:Geriatrics">Geriatrics</a></li>
+<li><a href="/wiki/Category:Gerontology" title="Category:Gerontology">Gerontology</a></li>
+<li><a href="/wiki/Category:Gynecology" title="Category:Gynecology">Gynecology</a></li>
+<li><a href="/wiki/Category:Hematology" title="Category:Hematology">Hematology</a></li>
+<li><a href="/wiki/Category:Nephrology" title="Category:Nephrology">Nephrology</a></li>
+<li><a href="/wiki/Category:Neurology" title="Category:Neurology">Neurology</a></li>
+<li><a href="/wiki/Category:Obstetrics" title="Category:Obstetrics">Obstetrics</a></li>
+<li><a href="/wiki/Category:Oncology" title="Category:Oncology">Oncology</a></li>
+<li><a href="/wiki/Category:Ophthalmology" title="Category:Ophthalmology">Ophthalmology</a></li>
+<li><a href="/wiki/Category:Orthopedic_surgical_procedures" title="Category:Orthopedic surgical procedures">Orthopedic surgical procedures</a></li>
+<li><a href="/wiki/Category:Pathology" title="Category:Pathology">Pathology</a></li>
+<li><a href="/wiki/Category:Pediatrics" title="Category:Pediatrics">Pediatrics</a></li>
+<li><a href="/wiki/Category:Psychiatry" title="Category:Psychiatry">Psychiatry</a></li>
+<li><a href="/wiki/Category:Rheumatology" title="Category:Rheumatology">Rheumatology</a></li>
+<li><a href="/wiki/Category:Surgery" title="Category:Surgery">Surgery</a></li>
+<li><a href="/wiki/Category:Urology" title="Category:Urology">Urology</a></li></ul>
+</div>
+<div class="hlist" style="margin-left:3.0em;padding-bottom:0.5em;">
+<ul><li><i><b><a href="/wiki/Category:Dentistry" title="Category:Dentistry">Dentistry</a></b></i></li>
+<li><a href="/wiki/Category:Oral_hygiene" title="Category:Oral hygiene">Dental hygiene</a></li>
+<li><a href="/wiki/Category:Orthodontics" title="Category:Orthodontics">Orthodontics</a></li></ul>
+</div>
+<div class="hlist" style="margin-left:2.0em;padding-bottom:0.5em;">
+<ul><li><i><b><a href="/wiki/Category:Veterinary_medicine" title="Category:Veterinary medicine">Veterinary medicine</a></b></i></li></ul>
+</div>
+<div class="noprint" style="margin:0.3em 0.2em 0.2em 0.3em; padding:0.3em 0.2em 0.2em 0.3em; text-align:right;"><b></b></div><div style="clear:both;"></div></div>
+<p><span id="Indices"></span>
+</p>
+<div class="box-header-title-container flex-columns-noflex" style="clear:both;color:#black;margin-bottom:0px;border:solid 1px solid #A3B1BF;border-bottom:1px solid #A3B1BF;box-sizing:border-box;text-align:center;font-size:100%;background:#CEE0F2;font-family:sans-serif;padding:1em;;border-width:0px 0px 0;padding-top:.1em;padding-left:.1em;padding-right:.1em;padding-bottom:.1em;padding-top:.1em;moz-border-radius:0;webkit-border-radius:0;border-radius:0"><div class="plainlinks noprint" style="float:right;margin-bottom:.1em;color:#black;font-size:80%"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Wikipedia%3AContents%2FIndices%2FHealth_and_fitness&amp;action=edit"><span style="color:#black">edit</span></a>&#160;<a class="external text" href="https://en.wikipedia.org/w/index.php?title=Wikipedia:Contents/Indices/Health_and_fitness&amp;action=watch"><span style="color: #black; min-width:40px; display:table-cell;">watch</span></a>&#160;</div><h2 style="font-weight:bold;padding:0;margin:0;color:#black;font-family:sans-serif;border:none;font-size:100%;padding-bottom:.1em;margin-left:60px"><span id="Indices_.28see_for_all_subject_areas.29"></span><span class="mw-headline" id="Indices_(see_for_all_subject_areas)"><big><a href="/wiki/File:P_literature.svg" class="image"><img alt="P literature.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/1d/P_literature.svg/30px-P_literature.svg.png" decoding="async" width="30" height="27" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/1d/P_literature.svg/45px-P_literature.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/1d/P_literature.svg/60px-P_literature.svg.png 2x" data-file-width="400" data-file-height="360" /></a> Indices &#160;&#160;(<a href="/wiki/Wikipedia:Contents/Indices" title="Wikipedia:Contents/Indices"><small>see for all subject areas</small></a>)
+</big></span></h2></div><div style="color:black;opacity:1;border:0px solid #A3B1BF;border-bottom:0px solid #A3B1BF;;box-sizing:border-box;text-align:left;padding:1em;;background:#F5FAFF;margin:0 0 10px;vertical-align:top;border-top-width:1px;padding-top:.3em;-moz-border-radius:0;-webkit-border-radius:0;border-radius:0">
+<dl><dd><i>See also: <a href="#Biology">Biology (below)</a></i></dd></dl>
+<p><b><a href="/wiki/Index_of_health_articles" title="Index of health articles">Health</a>:</b>
+</p>
+<dl><dd><a href="/wiki/Index_of_life_extension-related_topics" class="mw-redirect" title="Index of life extension-related topics">Life extension</a></dd></dl>
+<dl><dd><b>Health science</b>
+<dl><dd>Medicine
+<dl><dd>Fields
+<dl><dd><a href="/wiki/Index_of_nursing_articles" title="Index of nursing articles">Nursing</a></dd>
+<dd><a href="/wiki/Index_of_oncology_articles" title="Index of oncology articles">Oncology</a></dd>
+<dd><a href="/wiki/Index_of_trauma_%26_orthopaedics_articles" class="mw-redirect" title="Index of trauma &amp; orthopaedics articles">Trauma &amp; Orthopaedics</a></dd></dl></dd>
+<dd>Disease
+<dl><dd><a href="/wiki/Index_of_AIDS-related_topics" class="mw-redirect" title="Index of AIDS-related topics">AIDS</a></dd></dl></dd></dl></dd></dl></dd></dl>
+<div class="noprint" style="margin:0.3em 0.2em 0.2em 0.3em; padding:0.3em 0.2em 0.2em 0.3em; text-align:right;"><b></b></div><div style="clear:both;"></div></div>
+<div role="navigation" aria-labelledby="contents-footer-label" id="contents-footer" class="hlist plainlinks selfreference noprint" style="font-size:88%; margin-top:5px; border:1px solid #B8C7D9; background-color:#E6F2FF; padding:1em; text-align:center">
+<div id="contents-footer-label" style="font-size:140%"><a href="/wiki/Wikipedia:Contents" title="Wikipedia:Contents">Content listings</a></div>
+<div style="font-size:105%; font-weight:bold">Types</div>
+<div>
+<ul><li><a href="/wiki/Wikipedia:Contents/Overviews" title="Wikipedia:Contents/Overviews">Overviews</a></li>
+<li><a href="/wiki/Wikipedia:Featured_content" title="Wikipedia:Featured content">Featured content</a></li>
+<li><a href="/wiki/Wikipedia:Contents/Outlines" title="Wikipedia:Contents/Outlines">Outlines</a></li>
+<li><a href="/wiki/Wikipedia:Contents/Lists" title="Wikipedia:Contents/Lists">Lists</a></li>
+<li><a href="/wiki/Wikipedia:Contents/Portals" title="Wikipedia:Contents/Portals">Portals</a></li>
+<li><a href="/wiki/Wikipedia:Contents/Glossaries" title="Wikipedia:Contents/Glossaries">Glossaries</a></li>
+<li><a href="/wiki/Wikipedia:Contents/Categories" title="Wikipedia:Contents/Categories">Categories</a></li>
+<li><a href="/wiki/Wikipedia:Contents/Indices" title="Wikipedia:Contents/Indices">Indices</a></li>
+<li><a href="/wiki/Wikipedia:Spoken_articles" title="Wikipedia:Spoken articles">Spoken articles</a></li></ul>
+</div>
+<div>
+<div style="font-size:105%; font-weight:bold">Topics</div>
+<ul><li><a href="/wiki/Portal:Current_events" title="Portal:Current events">Current events</a></li>
+<li><a href="/wiki/Wikipedia:Contents/Reference" title="Wikipedia:Contents/Reference">Reference</a></li>
+<li><a href="/wiki/Wikipedia:Contents/Culture_and_the_arts" title="Wikipedia:Contents/Culture and the arts">Culture</a></li>
+<li><a href="/wiki/Wikipedia:Contents/Geography_and_places" title="Wikipedia:Contents/Geography and places">Geography</a></li>
+<li><a class="mw-selflink selflink">Health</a></li>
+<li><a href="/wiki/Wikipedia:Contents/History_and_events" title="Wikipedia:Contents/History and events">History</a></li>
+<li><a href="/wiki/Wikipedia:Contents/Mathematics_and_logic" title="Wikipedia:Contents/Mathematics and logic">Mathematics</a></li>
+<li><a href="/wiki/Wikipedia:Contents/Natural_and_physical_sciences" title="Wikipedia:Contents/Natural and physical sciences">Nature</a></li>
+<li><a href="/wiki/Wikipedia:Contents/People_and_self" title="Wikipedia:Contents/People and self">People</a></li>
+<li><a href="/wiki/Wikipedia:Contents/Philosophy_and_thinking" title="Wikipedia:Contents/Philosophy and thinking">Philosophy</a></li>
+<li><a href="/wiki/Wikipedia:Contents/Religion_and_belief_systems" title="Wikipedia:Contents/Religion and belief systems">Religion</a></li>
+<li><a href="/wiki/Wikipedia:Contents/Society_and_social_sciences" title="Wikipedia:Contents/Society and social sciences">Society</a></li>
+<li><a href="/wiki/Wikipedia:Contents/Technology_and_applied_sciences" title="Wikipedia:Contents/Technology and applied sciences">Technology</a></li></ul>
+</div>
+<div>
+<div style="font-size:105%; font-weight:bold">Places, people and times</div>
+<ul><li><a href="/wiki/Outline_of_academic_disciplines" title="Outline of academic disciplines">Academic disciplines</a></li>
+<li><a href="/wiki/List_of_historical_anniversaries" title="List of historical anniversaries">Anniversaries</a>
+<ul><li><span style="font-size:90%"><a href="/wiki/May_4" title="May 4">today</a></span></li></ul></li>
+<li><a href="/wiki/Lists_of_countries_and_territories" title="Lists of countries and territories">Countries and territories</a></li>
+<li><a href="/wiki/List_of_timelines" title="List of timelines">Timelines</a>
+<ul><li><span style="font-size:90%"><a href="/wiki/List_of_centuries" title="List of centuries">centuries</a></span></li>
+<li><span style="font-size:90%"><a href="/wiki/List_of_decades" title="List of decades">decades</a></span></li></ul></li></ul>
+</div>
+<div style="font-size:105%; font-weight:bold">Indices</div>
+<div>
+<ul><li><a href="/wiki/Wikipedia:Contents/A%E2%80%93Z_index" title="Wikipedia:Contents/A–Z index">A–Z index</a></li>
+<li><a href="/wiki/Wikipedia:Contents/Categories" title="Wikipedia:Contents/Categories">Categories</a></li>
+<li><a href="/wiki/List_of_Dewey_Decimal_classes" title="List of Dewey Decimal classes">Dewey Decimal classes</a></li>
+<li><a href="/wiki/Library_of_Congress_Classification" title="Library of Congress Classification">Library of Congress Classification</a></li></ul>
+</div>
+</div>
+</div>
+</td></tr></tbody></table>
+<div style="text-align:right"><i><span class="noprint plainlinks purgelink"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Wikipedia:Contents/Health_and_fitness&amp;action=purge"><span title="Purge this page">Purge cache to show recent changes</span></a></span></i></div>
+<!-- 
+NewPP limit report
+Parsed by mw1332
+Cached time: 20200504024512
+Cache expiry: 3600
+Dynamic content: true
+Complications: []
+CPU time usage: 0.240 seconds
+Real time usage: 0.355 seconds
+Preprocessor visited node count: 1360/1000000
+Post‐expand include size: 125750/2097152 bytes
+Template argument size: 7131/2097152 bytes
+Highest expansion depth: 13/40
+Expensive parser function count: 6/500
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 0/5000000 bytes
+Number of Wikibase entities loaded: 0/400
+Lua time usage: 0.078/10.000 seconds
+Lua memory usage: 2.55 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  254.391      1 -total
+ 71.99%  183.140      1 Wikipedia:Contents/Topics_layout
+ 27.96%   71.131      1 Template:Pp-semi-indef
+ 18.45%   46.945      8 Template:Box-header-watch
+ 16.83%   42.814      8 Template:Box-header
+ 13.68%   34.789      1 Template:Short_description
+ 10.89%   27.714      7 Wikipedia:Contents/box-header-topics
+ 10.13%   25.764      1 Wikipedia:Contents/Overviews/Health_and_fitness
+  9.62%   24.462      1 Wikipedia:Contents/box-header-intro
+  7.92%   20.160      1 Template:Pagetype
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:14541211-0!canonical and timestamp 20200504024512 and revision id 943665717
+ -->
+</div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>
+		<div class="printfooter">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Wikipedia:Contents/Health_and_fitness&amp;oldid=943665717">https://en.wikipedia.org/w/index.php?title=Wikipedia:Contents/Health_and_fitness&amp;oldid=943665717</a>"</div>
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Wikipedia_contents" title="Category:Wikipedia contents">Wikipedia contents</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Wikipedia_semi-protected_project_pages" title="Category:Wikipedia semi-protected project pages">Wikipedia semi-protected project pages</a></li><li><a href="/wiki/Category:Project_pages_with_short_description" title="Category:Project pages with short description">Project pages with short description</a></li></ul></div></div>
+		<div class="visualClear"></div>
+		
+	</div>
+</div>
+<div id='mw-data-after-content'>
+	<div class="read-more-container"></div>
+</div>
+
+<div id="mw-navigation">
+	<h2>Navigation menu</h2>
+	<div id="mw-head">
+		
+<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+	<h3 id="p-personal-label">Personal tools</h3>
+	<ul >
+		<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Wikipedia%3AContents%2FHealth+and+fitness" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Wikipedia%3AContents%2FHealth+and+fitness" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>
+	</ul>
+</div>
+
+		<div id="left-navigation">
+			<div id="p-namespaces" role="navigation" class="vectorTabs " aria-labelledby="p-namespaces-label">
+	<h3 id="p-namespaces-label">Namespaces</h3>
+	<ul >
+		<li id="ca-nstab-project" class="selected"><a href="/wiki/Wikipedia:Contents/Health_and_fitness" title="View the project page [c]" accesskey="c">Project page</a></li><li id="ca-talk"><a href="/wiki/Wikipedia_talk:Contents/Health_and_fitness" rel="discussion" title="Discuss improvements to the content page [t]" accesskey="t">Talk</a></li>
+	</ul>
+</div>
+
+			<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+	<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+	<h3 id="p-variants-label">
+		<span>Variants</span>
+	</h3>
+	<ul class="menu" >
+		
+	</ul>
+</div>
+
+		</div>
+		<div id="right-navigation">
+			<div id="p-views" role="navigation" class="vectorTabs " aria-labelledby="p-views-label">
+	<h3 id="p-views-label">Views</h3>
+	<ul >
+		<li id="ca-view" class="collapsible selected"><a href="/wiki/Wikipedia:Contents/Health_and_fitness">Read</a></li><li id="ca-viewsource" class="collapsible"><a href="/w/index.php?title=Wikipedia:Contents/Health_and_fitness&amp;action=edit" title="This page is protected.&#10;You can view its source [e]" accesskey="e">View source</a></li><li id="ca-history" class="collapsible"><a href="/w/index.php?title=Wikipedia:Contents/Health_and_fitness&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></li>
+	</ul>
+</div>
+
+			<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+	<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+	<h3 id="p-cactions-label">
+		<span>More</span>
+	</h3>
+	<ul class="menu" >
+		
+	</ul>
+</div>
+
+			<div id="p-search" role="search">
+	<h3 >
+		<label for="searchInput">Search</label>
+	</h3>
+	<form action="/w/index.php" id="searchform">
+		<div id="simpleSearch">
+			<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/>
+			<input type="hidden" value="Special:Search" name="title"/>
+			<input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/>
+			<input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>
+		</div>
+	</form>
+</div>
+
+		</div>
+	</div>
+	
+<div id="mw-panel">
+	<div id="p-logo" role="banner">
+		<a  title="Visit the main page" class="mw-wiki-logo" href="/wiki/Main_Page"></a>
+	</div>
+	<div class="portal" role="navigation" id="p-navigation"  aria-labelledby="p-navigation-label">
+	<h3  id="p-navigation-label">
+		Navigation
+	</h3>
+	<div class="body">
+		<ul><li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Wikipedia:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Wikipedia:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li></ul>
+		
+	</div>
+</div>
+
+
+	<div class="portal" role="navigation" id="p-interaction"  aria-labelledby="p-interaction-label">
+	<h3  id="p-interaction-label">
+		Interaction
+	</h3>
+	<div class="body">
+		<ul><li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li></ul>
+		
+	</div>
+</div>
+
+<div class="portal" role="navigation" id="p-tb"  aria-labelledby="p-tb-label">
+	<h3  id="p-tb-label">
+		Tools
+	</h3>
+	<div class="body">
+		<ul><li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Wikipedia:Contents/Health_and_fitness" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Wikipedia:Contents/Health_and_fitness" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Wikipedia:Contents/Health_and_fitness&amp;oldid=943665717" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Wikipedia:Contents/Health_and_fitness&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q19904521" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li></ul>
+		
+	</div>
+</div>
+
+<div class="portal" role="navigation" id="p-coll-print_export"  aria-labelledby="p-coll-print_export-label">
+	<h3  id="p-coll-print_export-label">
+		Print/export
+	</h3>
+	<div class="body">
+		<ul><li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Wikipedia%3AContents%2FHealth+and+fitness">Create a book</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Wikipedia%3AContents%2FHealth+and+fitness&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Wikipedia:Contents/Health_and_fitness&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li></ul>
+		
+	</div>
+</div>
+
+<div class="portal" role="navigation" id="p-lang"  aria-labelledby="p-lang-label">
+	<h3  id="p-lang-label">
+		Languages
+	</h3>
+	<div class="body">
+		<ul><li class="interlanguage-link interwiki-sq"><a href="https://sq.wikipedia.org/wiki/Portal:P%C3%ABrmbajtja/Sh%C3%ABndet%C3%ABsi_dhe_fitnes" title="Portal:Përmbajtja/Shëndetësi dhe fitnes – Albanian" lang="sq" hreflang="sq" class="interlanguage-link-target">Shqip</a></li></ul>
+		<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q19904521#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>
+	</div>
+</div>
+
+
+</div>
+
+</div>
+
+<div id="footer" role="contentinfo" >
+	<ul id="footer-info" class="">
+		<li id="footer-info-lastmod"> This page was last edited on 3 March 2020, at 06:35<span class="anonymous-show">&#160;(UTC)</span>.</li>
+		<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+	</ul>
+	<ul id="footer-places" class="">
+		<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+		<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+		<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+		<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+		<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+		<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/en.wikipedia.org">Statistics</a></li>
+		<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+		<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Wikipedia:Contents/Health_and_fitness&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+	</ul>
+	<ul id="footer-icons" class="noprint">
+		<li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a></li>
+		<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a></li>
+	</ul>
+	<div style="clear: both;"></div>
+</div>
+
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.240","walltime":"0.355","ppvisitednodes":{"value":1360,"limit":1000000},"postexpandincludesize":{"value":125750,"limit":2097152},"templateargumentsize":{"value":7131,"limit":2097152},"expansiondepth":{"value":13,"limit":40},"expensivefunctioncount":{"value":6,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":0,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  254.391      1 -total"," 71.99%  183.140      1 Wikipedia:Contents/Topics_layout"," 27.96%   71.131      1 Template:Pp-semi-indef"," 18.45%   46.945      8 Template:Box-header-watch"," 16.83%   42.814      8 Template:Box-header"," 13.68%   34.789      1 Template:Short_description"," 10.89%   27.714      7 Wikipedia:Contents/box-header-topics"," 10.13%   25.764      1 Wikipedia:Contents/Overviews/Health_and_fitness","  9.62%   24.462      1 Wikipedia:Contents/box-header-intro","  7.92%   20.160      1 Template:Pagetype"]},"scribunto":{"limitreport-timeusage":{"value":"0.078","limit":"10.000"},"limitreport-memusage":{"value":2671577,"limit":52428800}},"cachereport":{"origin":"mw1332","timestamp":"20200504024512","ttl":3600,"transientcontent":true}}});mw.config.set({"wgBackendResponseTime":87,"wgHostname":"mw1365"});});</script></body></html>
